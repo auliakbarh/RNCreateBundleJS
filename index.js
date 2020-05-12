@@ -7,6 +7,8 @@ import {AppRegistry} from 'react-native';
 import Router from './src/navigation';
 import {name as appName} from './app.json';
 
-const App = Router({database: null});
+import database from './src/database';
+
+const App = Router({database});
 
 AppRegistry.registerComponent(appName, () => App);
