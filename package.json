@@ -7,7 +7,9 @@
     "ios": "react-native run-ios",
     "start": "react-native start",
     "test": "jest",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "bundle-android": "react-native bundle --dev false --platform android --entry-file index.js --bundle-output ./android/app/src/main/assets/index.android.bundle --assets-dest ./android/app/src/main/res",
+    "bundle-ios": "react-native bundle --platform ios --dev false --entry-file index.js --bundle-output ./ios/IntegrationNative/main.jsbundle --assets-dest ./ios/IntegrationNative"
   },
   "dependencies": {
     "react": "16.11.0",
