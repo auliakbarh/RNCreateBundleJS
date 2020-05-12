@@ -1,0 +1,1784 @@
+{
+  "location": [
+    "Gudang Handak",
+    "In Pit",
+    "Jalan In Pit",
+    "Jalan Out Pit",
+    "Jetty atau Dermaga",
+    "Klinik",
+    "Mess",
+    "Office",
+    "Oil Trap",
+    "Out Pit",
+    "Pit Stop",
+    "TPS Limbah B3",
+    "Warehouse",
+    "Washing Pad",
+    "Workshop"
+  ],
+  "subLocation": [
+    {
+      "locationName": "Out Pit",
+      "name": "CSA Jalan Collar 5"
+    },
+    {
+      "locationName": "Out Pit",
+      "name": "CSA Jalan Collar 6"
+    },
+    {
+      "locationName": "Out Pit",
+      "name": "CSA Jalan Collar 7"
+    },
+    {
+      "locationName": "Gudang Handak",
+      "name": "Gudang Handak - OSEP"
+    },
+    {
+      "locationName": "Jalan Out Pit",
+      "name": "Hauling Road Arah 73 HW"
+    },
+    {
+      "locationName": "Jalan Out Pit",
+      "name": "Hauling Road Arah 73 LW"
+    },
+    {
+      "locationName": "Jalan Out Pit",
+      "name": "Hauling Road Arah Kelanis"
+    },
+    {
+      "locationName": "In Pit",
+      "name": "In Pit - High Wall"
+    },
+    {
+      "locationName": "In Pit",
+      "name": "In Pit - Jamrek"
+    },
+    {
+      "locationName": "In Pit",
+      "name": "In Pit - Low Wall Atas"
+    },
+    {
+      "locationName": "In Pit",
+      "name": "In Pit - Low Wall Tengah"
+    },
+    {
+      "locationName": "In Pit",
+      "name": "In Pit - Low Wall Utara"
+    },
+    {
+      "locationName": "In Pit",
+      "name": "In Pit - Outlet Pompa"
+    },
+    {
+      "locationName": "In Pit",
+      "name": "In Pit - Sump Area"
+    },
+    {
+      "locationName": "Jalan Out Pit",
+      "name": "Jalan arah paringin"
+    },
+    {
+      "locationName": "Jalan Out Pit",
+      "name": "Jalan Arah Tamian Layang"
+    },
+    {
+      "locationName": "Jalan Out Pit",
+      "name": "Jalan arah tanjung"
+    },
+    {
+      "locationName": "Jalan In Pit",
+      "name": "Jalan Collar 4 Disposal"
+    },
+    {
+      "locationName": "Jalan In Pit",
+      "name": "Jalan Collar 5"
+    },
+    {
+      "locationName": "Jalan In Pit",
+      "name": "Jalan Collar 5 Disposal"
+    },
+    {
+      "locationName": "Jalan In Pit",
+      "name": "Jalan Collar 6"
+    },
+    {
+      "locationName": "Jalan In Pit",
+      "name": "Jalan Collar 6 Disposal"
+    },
+    {
+      "locationName": "Jalan In Pit",
+      "name": "Jalan Collar 7"
+    },
+    {
+      "locationName": "Jalan In Pit",
+      "name": "Jalan Collar 7 Atas"
+    },
+    {
+      "locationName": "Jalan In Pit",
+      "name": "Jalan Collar 7 Bawah"
+    },
+    {
+      "locationName": "Jalan In Pit",
+      "name": "Jalan Collar 7 Disposal"
+    },
+    {
+      "locationName": "Jalan In Pit",
+      "name": "Jalan Collar 7 Tengah"
+    },
+    {
+      "locationName": "Jalan In Pit",
+      "name": "Jalan HRM"
+    },
+    {
+      "locationName": "Jalan In Pit",
+      "name": "Jalan Jalan Collar 4"
+    },
+    {
+      "locationName": "Jalan In Pit",
+      "name": "Jalan Simpang Waterfill"
+    },
+    {
+      "locationName": "Jalan Out Pit",
+      "name": "Jembatan padangin"
+    },
+    {
+      "locationName": "Jalan Out Pit",
+      "name": "Jembatan Pasar panas"
+    },
+    {
+      "locationName": "Jalan Out Pit",
+      "name": "Jembatan Pasintik"
+    },
+    {
+      "locationName": "Jalan Out Pit",
+      "name": "Jempatan tabalong"
+    },
+    {
+      "locationName": "Klinik",
+      "name": "Klinik - STD BUMA KM74 Paringin"
+    },
+    {
+      "locationName": "Mess",
+      "name": "Mess - Camp Boss"
+    },
+    {
+      "locationName": "Mess",
+      "name": "Mess - Kantin"
+    },
+    {
+      "locationName": "Mess",
+      "name": "Mess Diamond"
+    },
+    {
+      "locationName": "Mess",
+      "name": "Mess Emerald"
+    },
+    {
+      "locationName": "Mess",
+      "name": "Mess Ruby"
+    },
+    {
+      "locationName": "Mess",
+      "name": "Mess Sapphire"
+    },
+    {
+      "locationName": "Mess",
+      "name": "Mess Zamrud"
+    },
+    {
+      "locationName": "Office",
+      "name": "Office - LC & D"
+    },
+    {
+      "locationName": "Office",
+      "name": "Office - MCD"
+    },
+    {
+      "locationName": "Office",
+      "name": "Office - TOS"
+    },
+    {
+      "locationName": "Office",
+      "name": "Office - Warehouse"
+    },
+    {
+      "locationName": "Office",
+      "name": "Office PT BUMA KM 74 HW-Paringin"
+    },
+    {
+      "locationName": "Oil Trap",
+      "name": "Oil Trap Washing Pad"
+    },
+    {
+      "locationName": "Oil Trap",
+      "name": "Oil Trap Workshop"
+    },
+    {
+      "locationName": "Out Pit",
+      "name": "Out Pit - Dumpingan Lumpur"
+    },
+    {
+      "locationName": "Out Pit",
+      "name": "Out Pit - Dumpngan Soil"
+    },
+    {
+      "locationName": "Out Pit",
+      "name": "Out Pit - Genset KM74 Paringin"
+    },
+    {
+      "locationName": "Out Pit",
+      "name": "Out Pit - Gerdas"
+    },
+    {
+      "locationName": "Out Pit",
+      "name": "Out Pit - IPBF"
+    },
+    {
+      "locationName": "Out Pit",
+      "name": "Out Pit - Mine Tank KM74 Paringin"
+    },
+    {
+      "locationName": "Out Pit",
+      "name": "Out Pit - Waterfill"
+    },
+    {
+      "locationName": "Out Pit",
+      "name": "Out Pit - Welding HDPE"
+    },
+    {
+      "locationName": "Pit Stop",
+      "name": "Pit Stop - Jalan Collar 5"
+    },
+    {
+      "locationName": "Pit Stop",
+      "name": "Pit Stop - Jalan Collar 6"
+    },
+    {
+      "locationName": "Pit Stop",
+      "name": "Pit Stop - Jalan Collar 7"
+    },
+    {
+      "locationName": "Pit Stop",
+      "name": "Pit Stop - Lay Down"
+    },
+    {
+      "locationName": "Pit Stop",
+      "name": "Pit Stop - Pos Pantau"
+    },
+    {
+      "locationName": "Pit Stop",
+      "name": "Pit Stop - SGE"
+    },
+    {
+      "locationName": "Pit Stop",
+      "name": "Pit Stop - Shut Down Area"
+    },
+    {
+      "locationName": "Jetty atau Dermaga",
+      "name": "Port Kelanis"
+    },
+    {
+      "locationName": "TPS Limbah B3",
+      "name": "TPS LB3 PT.BUMA KM74 Paringin"
+    },
+    {
+      "locationName": "Warehouse",
+      "name": "Warehouse PT BUMA KM74 Paringin"
+    },
+    {
+      "locationName": "Washing Pad",
+      "name": "Washing Pad - KM74 Paringin"
+    },
+    {
+      "locationName": "Workshop",
+      "name": "Workshop BUMA KM74 Paringin"
+    }
+  ],
+  "personInCharge": [
+    {
+      "userId": 10007943,
+      "fullName": "Aan Prasetiyo",
+      "position": "Jr. Officer - SHE Operational Area ADR"
+    },
+    {
+      "userId": 10003387,
+      "fullName": "Abdul Hadi",
+      "position": "Foreman - Drill & Blast ADR"
+    },
+    {
+      "userId": 10004769,
+      "fullName": "Abdul Hadi",
+      "position": "Mechanic - OB Haulers Pit Stop ADR"
+    },
+    {
+      "userId": 10001653,
+      "fullName": "Abdul Kadir",
+      "position": "Foreman - Ancillary Equipment ADR"
+    },
+    {
+      "userId": 10005613,
+      "fullName": "Abdul Maki",
+      "position": "Foreman - Drill & Blast ADR"
+    },
+    {
+      "userId": 10007893,
+      "fullName": "Abdul Rajab",
+      "position": "Electrician - Genset&Lighting Tower ADR"
+    },
+    {
+      "userId": 10001289,
+      "fullName": "Abdul Rosyid",
+      "position": "Supervisor - Loader ADR"
+    },
+    {
+      "userId": 10007048,
+      "fullName": "Abdullah Adhari",
+      "position": "Foreman - Loader Shutdown ADR"
+    },
+    {
+      "userId": 10019687,
+      "fullName": "Achmad Juanzah",
+      "position": "Engineer - Pit Control ADR"
+    },
+    {
+      "userId": 10007903,
+      "fullName": "Achmad Taufiq",
+      "position": "Mechanic - Loader Shutdown ADR"
+    },
+    {
+      "userId": 10012075,
+      "fullName": "Ade Dwi Anugerah",
+      "position": "Foreman - OB Haulers Workshop ADR"
+    },
+    {
+      "userId": 10004013,
+      "fullName": "Adhi Kurniawan",
+      "position": "Jr. Officer - SHE Operational Area ADR"
+    },
+    {
+      "userId": 10010179,
+      "fullName": "Adhitya Eka Saptana",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10002269,
+      "fullName": "Adi Sukardiman",
+      "position": "Foreman - Production Analyst ADR"
+    },
+    {
+      "userId": 10008288,
+      "fullName": "Aditya Noerrachman Halim",
+      "position": "Jr. Planner ADR"
+    },
+    {
+      "userId": 10008149,
+      "fullName": "Adityo",
+      "position": "Supervisor - Dispatchers ADR"
+    },
+    {
+      "userId": 10017541,
+      "fullName": "Adnan Danar Wijaya",
+      "position": "Dispatch - Engineers ADR"
+    },
+    {
+      "userId": 10003718,
+      "fullName": "Agung Ariyanto Pambudi",
+      "position": "Jr. Trainer - Learning Center ADR"
+    },
+    {
+      "userId": 10023926,
+      "fullName": "Agung Supriyadi",
+      "position": "Supervisor - SHE Operational Area ADR"
+    },
+    {
+      "userId": 10008428,
+      "fullName": "Agus Maulana",
+      "position": "Foreman - Dozer & Grader ADR"
+    },
+    {
+      "userId": 10002446,
+      "fullName": "Agus Riyanto",
+      "position": "Foreman - Drills & Pumps ADR"
+    },
+    {
+      "userId": 10010119,
+      "fullName": "Agus Sujana",
+      "position": "Supervisor - Workshop ADR"
+    },
+    {
+      "userId": 10003304,
+      "fullName": "Agus Sutrisno",
+      "position": "Supervisor - Dispatchers ADR"
+    },
+    {
+      "userId": 10006259,
+      "fullName": "Agusman Gultom",
+      "position": null
+    },
+    {
+      "userId": 10009534,
+      "fullName": "Agustinus Budi Wahyudi",
+      "position": "Welder ADR"
+    },
+    {
+      "userId": 10010007,
+      "fullName": "Ahmad Haris Setiawan",
+      "position": "Mechanic - Genset & Lighting Tower ADR"
+    },
+    {
+      "userId": 10002151,
+      "fullName": "Akhmad Basuni",
+      "position": "Trainer - Learning Center ADR"
+    },
+    {
+      "userId": 10011789,
+      "fullName": "Akhmad Wahyu Kurniawan",
+      "position": "Mechanic - Loader Shutdown ADR"
+    },
+    {
+      "userId": 10006850,
+      "fullName": "Alex Wibowo",
+      "position": "Foreman - Pit Service ADR"
+    },
+    {
+      "userId": 10001567,
+      "fullName": "Alfiansyah",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10001991,
+      "fullName": "Ali Abu Salam",
+      "position": "Jr. Trainer - Learning Center ADR"
+    },
+    {
+      "userId": 10001823,
+      "fullName": "Aliansyah",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10002720,
+      "fullName": "Alpian",
+      "position": "Foreman - Coal ADR"
+    },
+    {
+      "userId": 10008010,
+      "fullName": "Alvin Firdiyanto",
+      "position": "Mechanic - OB Haulers Workshop ADR"
+    },
+    {
+      "userId": 10025771,
+      "fullName": "Alvin Ghifari",
+      "position": "Supervisor - Dispatchers ADR"
+    },
+    {
+      "userId": 10003144,
+      "fullName": "Amberi",
+      "position": "Jr. Trainer - Learning Center ADR"
+    },
+    {
+      "userId": 10018876,
+      "fullName": "Amin Sobirin",
+      "position": "Jr. Trainer - Learning Center ADR"
+    },
+    {
+      "userId": 10001405,
+      "fullName": "Amri Siahaan",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10001370,
+      "fullName": "Andi",
+      "position": "Supervisor - OB ADR"
+    },
+    {
+      "userId": 10011469,
+      "fullName": "Andi Muh. Indra Nawir",
+      "position": "Jr. Trainer - Learning Center ADR"
+    },
+    {
+      "userId": 10004679,
+      "fullName": "Andreas Bagus GS",
+      "position": "Superintendent - BE ADR"
+    },
+    {
+      "userId": 10010421,
+      "fullName": "Andri Joko Wardoyo",
+      "position": "Supervisor - Plant Planning ADR"
+    },
+    {
+      "userId": 10004667,
+      "fullName": "Andy Azuar",
+      "position": "Foreman - Equipment ADR"
+    },
+    {
+      "userId": 10006255,
+      "fullName": "Anggi Harry Wibowo",
+      "position": "Superintendent - Mine Ctr & Dispatch ADR"
+    },
+    {
+      "userId": 10025774,
+      "fullName": "Anton Prasetyo",
+      "position": "Supervisor - OB ADR"
+    },
+    {
+      "userId": 10009922,
+      "fullName": "Arbie Febrianto",
+      "position": "Supervisor - Plant Planning ADR"
+    },
+    {
+      "userId": 10003823,
+      "fullName": "Ardiansyah",
+      "position": "Electrician - Loader Shutdown ADR"
+    },
+    {
+      "userId": 10002174,
+      "fullName": "Ardlina Kurniawan",
+      "position": "Mechanic - OB Haulers Pit Stop ADR"
+    },
+    {
+      "userId": 10004376,
+      "fullName": "Ari Wibowo",
+      "position": "Dispatch - Engineers ADR"
+    },
+    {
+      "userId": 10004010,
+      "fullName": "Arif Triyanto",
+      "position": "Foreman - Coal ADR"
+    },
+    {
+      "userId": 10003993,
+      "fullName": "Aris Asyakur",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10010300,
+      "fullName": "Aris Ruswandi",
+      "position": "Foreman - Inventory & Warehouse ADR"
+    },
+    {
+      "userId": 10005868,
+      "fullName": "Arjun",
+      "position": "Foreman - Equipment ADR"
+    },
+    {
+      "userId": 10006970,
+      "fullName": "Arovah Rizky Susandi",
+      "position": "Supervisor - Plant Planning ADR"
+    },
+    {
+      "userId": 10024128,
+      "fullName": "Ary Syahrani Sudarminto",
+      "position": "Foreman - Camp Management ADR"
+    },
+    {
+      "userId": 10002876,
+      "fullName": "Aryo Sumbono",
+      "position": "Foreman - Dozer & Grader ADR"
+    },
+    {
+      "userId": 10011212,
+      "fullName": "Asmawiansyah",
+      "position": "Supervisor - Coal ADR"
+    },
+    {
+      "userId": 10001313,
+      "fullName": "Asriadi",
+      "position": "Supervisor - Parts ADR"
+    },
+    {
+      "userId": 10004014,
+      "fullName": "Asruri",
+      "position": null
+    },
+    {
+      "userId": 10000424,
+      "fullName": "Astaf Sudardiman",
+      "position": "Superintendent - Learning Center ADR"
+    },
+    {
+      "userId": 10004830,
+      "fullName": "Augustin Leonard Siagian",
+      "position": "Supervisor - Pit Service ADR"
+    },
+    {
+      "userId": 10025767,
+      "fullName": "Aulia Aji Purnomo",
+      "position": "Supervisor - OB ADR"
+    },
+    {
+      "userId": 10002676,
+      "fullName": "Bambang Wahyudi",
+      "position": "Foreman - Camp Management ADR"
+    },
+    {
+      "userId": 10010422,
+      "fullName": "Bayu Aji Sena Muhsinin",
+      "position": null
+    },
+    {
+      "userId": 10008377,
+      "fullName": "Bayu Eko Prasetyo",
+      "position": "Mechanic - Loader Repair ADR"
+    },
+    {
+      "userId": 10016012,
+      "fullName": "Beny Ardiyanto",
+      "position": "Supervisor - HR Services ADR"
+    },
+    {
+      "userId": 10001648,
+      "fullName": "Bincar Hutajulu",
+      "position": "Supervisor - OB ADR"
+    },
+    {
+      "userId": 10001930,
+      "fullName": "Budi Darmawan",
+      "position": "Supervisor - Workshop Electric ADR"
+    },
+    {
+      "userId": 10003576,
+      "fullName": "Capin Oktorianto",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10009338,
+      "fullName": "Chairul Anam",
+      "position": "Mechanic - OB Haulers Pit Stop ADR"
+    },
+    {
+      "userId": 10007426,
+      "fullName": "Danny Asmin",
+      "position": "Foreman - Dispatchers ADR"
+    },
+    {
+      "userId": 10002217,
+      "fullName": "Darto",
+      "position": "Trainer - Learning Center ADR"
+    },
+    {
+      "userId": 10009128,
+      "fullName": "Deddy Fajar Yuliawan",
+      "position": "Officer - BE Strategy ADR"
+    },
+    {
+      "userId": 10012128,
+      "fullName": "Dedy Narsiadi",
+      "position": "Trainer - Learning Center ADR"
+    },
+    {
+      "userId": 10002535,
+      "fullName": "Dekky Hari Susanto",
+      "position": "Supervisor - Plant Planning ADR"
+    },
+    {
+      "userId": 10004175,
+      "fullName": "Demson Parlindungan",
+      "position": "Mechanic - OB Haulers Workshop ADR"
+    },
+    {
+      "userId": 10004176,
+      "fullName": "Dendy Hidayatullah",
+      "position": "Mechanic - Drills & Pumps ADR"
+    },
+    {
+      "userId": 10014239,
+      "fullName": "Denny Pahlevie",
+      "position": "Supervisor - Plant Planning ADR"
+    },
+    {
+      "userId": 10006628,
+      "fullName": "Dian Endrayana Susanto",
+      "position": "Supervisor - Plant Planning ADR"
+    },
+    {
+      "userId": 10025805,
+      "fullName": "Dian Larasati",
+      "position": "Supervisor - SHE Operational Area ADR"
+    },
+    {
+      "userId": 10003359,
+      "fullName": "Didik Dwi Widyanoto",
+      "position": "Superintendent - SHE Sys. & Training ADR"
+    },
+    {
+      "userId": 10004011,
+      "fullName": "Didik Purwanto",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10000097,
+      "fullName": "Dimpos Sitorus Pane",
+      "position": "Foreman - Pit Service ADR"
+    },
+    {
+      "userId": 10010222,
+      "fullName": "Dino Bilonia Pasaribu",
+      "position": "Foreman - Dozer & Grader ADR"
+    },
+    {
+      "userId": 10023408,
+      "fullName": "Dirgahary Rantewai",
+      "position": "Jr. Engineer - Drill Blast ADR"
+    },
+    {
+      "userId": 10001408,
+      "fullName": "Dody Ady Chandra",
+      "position": "Jr. Trainer - Learning Center ADR"
+    },
+    {
+      "userId": 10001904,
+      "fullName": "Dody Irawan",
+      "position": "Foreman - Inventory & Warehouse ADR"
+    },
+    {
+      "userId": 10011656,
+      "fullName": "Dolmar Sitorus",
+      "position": "Foreman - Loader Shutdown ADR"
+    },
+    {
+      "userId": 10003177,
+      "fullName": "Dwi Agus Setiawan",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10003483,
+      "fullName": "Dwi Priyo Atmojo",
+      "position": "Mechanic - Dozer & Grader ADR"
+    },
+    {
+      "userId": 10007625,
+      "fullName": "Dwi Riyanto",
+      "position": "Foreman - Coal ADR"
+    },
+    {
+      "userId": 10001739,
+      "fullName": "Eddy Supriadi",
+      "position": "Mechanic - Ancillary Equipment ADR"
+    },
+    {
+      "userId": 10021774,
+      "fullName": "Edo Taufiqurrohman",
+      "position": "Jr. Planner ADR"
+    },
+    {
+      "userId": 10004040,
+      "fullName": "Eko Issutiyanto",
+      "position": "Jr. Planner ADR"
+    },
+    {
+      "userId": 10002449,
+      "fullName": "Eko Setyawan",
+      "position": "Supervisor - Support Gear Equipment ADR"
+    },
+    {
+      "userId": 10001617,
+      "fullName": "Elber Supranoto",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10015254,
+      "fullName": "Elisabeth M Manurung",
+      "position": "Officer - IR ADR"
+    },
+    {
+      "userId": 10022956,
+      "fullName": "Erin Soemitro Panjaitan",
+      "position": "Jr. Engineer - Pit Control ADR"
+    },
+    {
+      "userId": 10005103,
+      "fullName": "Erwin Maulana",
+      "position": "Foreman - Inventory & Warehouse ADR"
+    },
+    {
+      "userId": 10018968,
+      "fullName": "Eryana Puspitasari",
+      "position": "Foreman - HR Services ADR"
+    },
+    {
+      "userId": 10010311,
+      "fullName": "Fahriannor",
+      "position": "Foreman - Procurement ADR"
+    },
+    {
+      "userId": 10001333,
+      "fullName": "Fahrizal",
+      "position": "Supervisor - OB ADR"
+    },
+    {
+      "userId": 10006276,
+      "fullName": "Fahrul",
+      "position": "Superintendent - Loader & SGE ADR"
+    },
+    {
+      "userId": 10004242,
+      "fullName": "Fajar Arief Safinudin",
+      "position": "Engineer - Mine Plan ADR"
+    },
+    {
+      "userId": 10008129,
+      "fullName": "Fajar setyono",
+      "position": "Superintendent - Production ADR"
+    },
+    {
+      "userId": 10009229,
+      "fullName": "Fandi Ari Adi",
+      "position": "Mechanic - Dozer & Grader ADR"
+    },
+    {
+      "userId": 10002773,
+      "fullName": "Farhan",
+      "position": "Foreman - Loader Shutdown ADR"
+    },
+    {
+      "userId": 10011276,
+      "fullName": "Fathur Rachman",
+      "position": "Jr. Trainer - Learning Center ADR"
+    },
+    {
+      "userId": 10003220,
+      "fullName": "Fendik Fidiantoni",
+      "position": "Supervisor - OB ADR"
+    },
+    {
+      "userId": 10006425,
+      "fullName": "Freza Daya Hewonu",
+      "position": "Foreman - Drill & Blast ADR"
+    },
+    {
+      "userId": 10025402,
+      "fullName": "Galih Firdaus Prayogo",
+      "position": "Supervisor - Dispatchers ADR"
+    },
+    {
+      "userId": 10002562,
+      "fullName": "Gayanto Saputra",
+      "position": "Supervisor - OB ADR"
+    },
+    {
+      "userId": 10004843,
+      "fullName": "Gusti Yanuar Ari Rivani",
+      "position": "Supervisor - OB Haulers ADR"
+    },
+    {
+      "userId": 10003326,
+      "fullName": "Hairan",
+      "position": "Supervisor - Drill & Blast ADR"
+    },
+    {
+      "userId": 10000408,
+      "fullName": "Halimi",
+      "position": "Foreman - Drill & Blast ADR"
+    },
+    {
+      "userId": 10012567,
+      "fullName": "Hamdani Krom",
+      "position": "Supervisor - Plant Planning ADR"
+    },
+    {
+      "userId": 10004849,
+      "fullName": "Hanudiono",
+      "position": "Jr. Trainer - Learning Center ADR"
+    },
+    {
+      "userId": 10002443,
+      "fullName": "Hardi Prasetya",
+      "position": "Foreman - Dozer & Grader ADR"
+    },
+    {
+      "userId": 10002805,
+      "fullName": "Harianto",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10011907,
+      "fullName": "Harsito",
+      "position": "Foreman - OB Haulers Pit Stop ADR"
+    },
+    {
+      "userId": 10004776,
+      "fullName": "Haryawan Hendro Wibowo",
+      "position": "Foreman - Genset & Lighting Tower ADR"
+    },
+    {
+      "userId": 10025790,
+      "fullName": "Helvina Oktavianti",
+      "position": "Chief - Surveyor ADR"
+    },
+    {
+      "userId": 10002193,
+      "fullName": "Hendrato Bimo. P",
+      "position": "Supervisor - Workshop ADR"
+    },
+    {
+      "userId": 10002799,
+      "fullName": "Hendri Riwayadi",
+      "position": "Superintendent - Production ADR"
+    },
+    {
+      "userId": 10003075,
+      "fullName": "Henri Pasaribu",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10007691,
+      "fullName": "Heri Patmana",
+      "position": "Supervisor - SHE Operational Area ADR"
+    },
+    {
+      "userId": 10002238,
+      "fullName": "Heri Susanto",
+      "position": "Foreman - OB Haulers Workshop ADR"
+    },
+    {
+      "userId": 10008199,
+      "fullName": "Hermansyah",
+      "position": "Mechanic - OB Haulers Workshop ADR"
+    },
+    {
+      "userId": 10008012,
+      "fullName": "Hermawan",
+      "position": "Mechanic - Ancillary Equipment ADR"
+    },
+    {
+      "userId": 10009299,
+      "fullName": "Hernizal",
+      "position": "Foreman - Lube & Waste Material ADR"
+    },
+    {
+      "userId": 10001620,
+      "fullName": "Husdini Ahdi",
+      "position": "Supervisor - Coal ADR"
+    },
+    {
+      "userId": 10025214,
+      "fullName": "Ibnu Izzul Muttaqin",
+      "position": "Jr. Planner ADR"
+    },
+    {
+      "userId": 10014383,
+      "fullName": "Ibnu Widigdo",
+      "position": "Supervisor - Drill & Blast ADR"
+    },
+    {
+      "userId": 10001559,
+      "fullName": "Idris",
+      "position": "Foreman - Opr Fuel & Lube ADR"
+    },
+    {
+      "userId": 10013823,
+      "fullName": "Ik Lian",
+      "position": "Superintendent - OB & Coal Haulers ADR"
+    },
+    {
+      "userId": 10006258,
+      "fullName": "Ipung",
+      "position": "Superintendent - Maintenance Support ADR"
+    },
+    {
+      "userId": 10005384,
+      "fullName": "Irdha Bagus Satriawan",
+      "position": "Mechanic - OB Haulers Pit Stop ADR"
+    },
+    {
+      "userId": 10001312,
+      "fullName": "Irwan",
+      "position": "Foreman - External Relations ADR"
+    },
+    {
+      "userId": 10001590,
+      "fullName": "Iwan Paryanto",
+      "position": "Foreman - OB Haulers Pit Stop ADR"
+    },
+    {
+      "userId": 10003293,
+      "fullName": "Jamsuki",
+      "position": "Foreman - Pit Service ADR"
+    },
+    {
+      "userId": 10003573,
+      "fullName": "Jari Kalabahum",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10001463,
+      "fullName": "Joko Marsono",
+      "position": "Foreman - Loader Shutdown ADR"
+    },
+    {
+      "userId": 10003579,
+      "fullName": "Joko Sapurwo",
+      "position": "Supervisor - Dispatchers ADR"
+    },
+    {
+      "userId": 10000569,
+      "fullName": "Jonathan Sinaga",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10000616,
+      "fullName": "Karel Yosef Wetik",
+      "position": "Foreman - Pit Service ADR"
+    },
+    {
+      "userId": 10003062,
+      "fullName": "Karjanto",
+      "position": "Supervisor - Pit Service ADR"
+    },
+    {
+      "userId": 10001647,
+      "fullName": "Kartono",
+      "position": "Foreman - Drill & Blast ADR"
+    },
+    {
+      "userId": 10002729,
+      "fullName": "Karyanto",
+      "position": "Trainer - Learning Center ADR"
+    },
+    {
+      "userId": 10007377,
+      "fullName": "Khabib Burrohman",
+      "position": "Welder ADR"
+    },
+    {
+      "userId": 10021493,
+      "fullName": "Khoirul Anwar",
+      "position": "Foreman - Production Analyst ADR"
+    },
+    {
+      "userId": 10003612,
+      "fullName": "Khokok Setya Pambudi",
+      "position": "Chief - Surveyor ADR"
+    },
+    {
+      "userId": 10018460,
+      "fullName": "Krisna Thera Kesuma",
+      "position": "Supervisor - Facility & Asset Mgt. ADR"
+    },
+    {
+      "userId": 10013238,
+      "fullName": "Kusno",
+      "position": "Welder ADR"
+    },
+    {
+      "userId": 10002976,
+      "fullName": "Liling",
+      "position": "Surveyor ADR"
+    },
+    {
+      "userId": 10024402,
+      "fullName": "Lukas Agung Nugroho",
+      "position": "Surveyor ADR"
+    },
+    {
+      "userId": 10023015,
+      "fullName": "Lukas Aton",
+      "position": "Engineer - Pit Control ADR"
+    },
+    {
+      "userId": 10024145,
+      "fullName": "M. Ali Syahril Sihombing",
+      "position": "Analyst - HR Development ADR"
+    },
+    {
+      "userId": 10009628,
+      "fullName": "M. Andry Rahman",
+      "position": "Foreman - Dispatchers ADR"
+    },
+    {
+      "userId": 10001229,
+      "fullName": "M. Azis",
+      "position": "Supervisor - OB ADR"
+    },
+    {
+      "userId": 10003445,
+      "fullName": "M. Badarudin",
+      "position": "Foreman - Transportation ADR"
+    },
+    {
+      "userId": 10006142,
+      "fullName": "M. Hafid Anshori",
+      "position": "Foreman - IT ADR"
+    },
+    {
+      "userId": 10002194,
+      "fullName": "M. Rahman",
+      "position": "Foreman - Fabrication ADR"
+    },
+    {
+      "userId": 10002804,
+      "fullName": "M. Suntoro N.",
+      "position": "Foreman - OB Haulers Pit Stop ADR"
+    },
+    {
+      "userId": 10002863,
+      "fullName": "M. Yamani",
+      "position": "Foreman - Tyre ADR"
+    },
+    {
+      "userId": 10001373,
+      "fullName": "M. Yuni Rizal",
+      "position": "Supervisor - OB ADR"
+    },
+    {
+      "userId": 10021485,
+      "fullName": "Ma�ruf Muatirozi",
+      "position": "Foreman - Dispatch Technicians ADR"
+    },
+    {
+      "userId": 10005219,
+      "fullName": "Mabruri",
+      "position": "Superintendent - HR ADR"
+    },
+    {
+      "userId": 10001880,
+      "fullName": "Mahpuji",
+      "position": "Supervisor - Equipment ADR"
+    },
+    {
+      "userId": 10014279,
+      "fullName": "Mario Uliviano",
+      "position": "Analyst - Budget & Control ADR"
+    },
+    {
+      "userId": 10005273,
+      "fullName": "Marsudi",
+      "position": "Officer - Support Learning Center ADR"
+    },
+    {
+      "userId": 10007742,
+      "fullName": "Martedy Setia Darmawan",
+      "position": "Supervisor - Finance ADR"
+    },
+    {
+      "userId": 10019665,
+      "fullName": "Mateus Frans Julio Naibaho",
+      "position": "Supervisor - OB ADR"
+    },
+    {
+      "userId": 10008848,
+      "fullName": "Melinda Amelia",
+      "position": "Jr. Officer - SHE Training ADR"
+    },
+    {
+      "userId": 10023327,
+      "fullName": "Mifta Aulia Putri",
+      "position": "Jr. Officer - AP & Tax ADR"
+    },
+    {
+      "userId": 10000384,
+      "fullName": "Moch Anwar",
+      "position": "Mechanic - Ancillary Equipment ADR"
+    },
+    {
+      "userId": 10007939,
+      "fullName": "Mochammad Anggi Arista",
+      "position": "Foreman - OB Haulers Pit Stop ADR"
+    },
+    {
+      "userId": 10020467,
+      "fullName": "Moh. Roby Darmawan",
+      "position": "Jr. Engineer - Pit Control ADR"
+    },
+    {
+      "userId": 10005757,
+      "fullName": "Mohammad Solikin",
+      "position": "Foreman - Pit Service ADR"
+    },
+    {
+      "userId": 10009532,
+      "fullName": "Monica Yanti Rumeeng",
+      "position": "Superintendent - HR ADR"
+    },
+    {
+      "userId": 10005918,
+      "fullName": "Monthy Joga",
+      "position": "Supervisor - Workshop ADR"
+    },
+    {
+      "userId": 10003522,
+      "fullName": "Mufti Yuchriansyah",
+      "position": "Foreman - Drill & Blast ADR"
+    },
+    {
+      "userId": 10003995,
+      "fullName": "Muhamad Ahyar",
+      "position": "Surveyor ADR"
+    },
+    {
+      "userId": 10014278,
+      "fullName": "Muhamad Kaidar",
+      "position": "Engineer - Pit Control ADR"
+    },
+    {
+      "userId": 10007512,
+      "fullName": "Muhamad Khanifudin",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10009553,
+      "fullName": "Muhammad Afriansyah",
+      "position": null
+    },
+    {
+      "userId": 10005794,
+      "fullName": "Muhammad Ali",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10003744,
+      "fullName": "Muhammad Fahrul",
+      "position": "Foreman - Ancillary Equipment ADR"
+    },
+    {
+      "userId": 10025793,
+      "fullName": "Muhammad Fikhri Alayubi",
+      "position": "Supervisor - Loader ADR"
+    },
+    {
+      "userId": 10004738,
+      "fullName": "Muhammad Ikhsan Ridwan Saputra",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10025812,
+      "fullName": "Muhammad Krisno Marlardang",
+      "position": "Engineer - Pit Control ADR"
+    },
+    {
+      "userId": 10009999,
+      "fullName": "Muhammad Ngizzudin",
+      "position": "Foreman - Pit Service ADR"
+    },
+    {
+      "userId": 10004002,
+      "fullName": "Muhammad Rapie",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10003210,
+      "fullName": "Muhroni",
+      "position": "Mechanic - Loader Shutdown ADR"
+    },
+    {
+      "userId": 10002890,
+      "fullName": "Muhtar Supian",
+      "position": "Foreman - Opr Fuel & Lube ADR"
+    },
+    {
+      "userId": 10023921,
+      "fullName": "Musdapi",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10001664,
+      "fullName": "Muslimin MT",
+      "position": "Superintendent - SHE Opr. Services ADR"
+    },
+    {
+      "userId": 10006987,
+      "fullName": "Mustika Murni",
+      "position": "Supervisor - Equipment ADR"
+    },
+    {
+      "userId": 10004027,
+      "fullName": "Nanang Andriyanto",
+      "position": "Foreman - OB Haulers Workshop ADR"
+    },
+    {
+      "userId": 10002372,
+      "fullName": "Natalianto",
+      "position": "Foreman - Loader Shutdown ADR"
+    },
+    {
+      "userId": 10001701,
+      "fullName": "Nenny Yoshita",
+      "position": "Foreman - Office Management ADR"
+    },
+    {
+      "userId": 10014931,
+      "fullName": "Nor Aidi",
+      "position": "Foreman - IT ADR"
+    },
+    {
+      "userId": 10001314,
+      "fullName": "Norliani Ulfah",
+      "position": "Foreman - Procurement ADR"
+    },
+    {
+      "userId": 10014867,
+      "fullName": "Nunup Walehano",
+      "position": "Foreman - External Relations ADR"
+    },
+    {
+      "userId": 10009256,
+      "fullName": "Nur Rizka Dias Sukma",
+      "position": "Jr. Officer - SHE Operational Area ADR"
+    },
+    {
+      "userId": 10008847,
+      "fullName": "Nurbaya Siahaan",
+      "position": "Foreman - HR Services ADR"
+    },
+    {
+      "userId": 10001886,
+      "fullName": "Nurdin",
+      "position": "Supervisor - Workshop ADR"
+    },
+    {
+      "userId": 10008179,
+      "fullName": "Nurdin Ardiansyah",
+      "position": "Foreman - Genset & Lighting Tower ADR"
+    },
+    {
+      "userId": 10005176,
+      "fullName": "Nurdiono Gunawan",
+      "position": "Foreman - Pit Service ADR"
+    },
+    {
+      "userId": 10001931,
+      "fullName": "Nursal",
+      "position": "Mechanic - OB Haulers Pit Stop ADR"
+    },
+    {
+      "userId": 10002881,
+      "fullName": "Nursid Amrullah",
+      "position": "Supervisor - Pit Service ADR"
+    },
+    {
+      "userId": 10001383,
+      "fullName": "Padli",
+      "position": "Engineer - Mine Plan ADR"
+    },
+    {
+      "userId": 10005661,
+      "fullName": "Pander Sinaga",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10001126,
+      "fullName": "Pardiansyah",
+      "position": "Supervisor - Loader ADR"
+    },
+    {
+      "userId": 10000085,
+      "fullName": "Parlin Panjaitan",
+      "position": "Foreman - Pit Service ADR"
+    },
+    {
+      "userId": 10001371,
+      "fullName": "Pawitro Budi Nugroho",
+      "position": "Foreman - OB Haulers Pit Stop ADR"
+    },
+    {
+      "userId": 10009790,
+      "fullName": "Prayit Nur Cahyono",
+      "position": "Superintendent - Engineering ADR"
+    },
+    {
+      "userId": 10007767,
+      "fullName": "Prima Wahyudi Firdaus",
+      "position": "Jr. Planner ADR"
+    },
+    {
+      "userId": 10009896,
+      "fullName": "Priyo Saputro",
+      "position": "Jr. Engineer - Drill Blast ADR"
+    },
+    {
+      "userId": 10001459,
+      "fullName": "Pujiono Bagus",
+      "position": "Foreman - Genset & Lighting Tower ADR"
+    },
+    {
+      "userId": 10023222,
+      "fullName": "Pungki Nadia Pratiwi",
+      "position": "Foreman - HR Services ADR"
+    },
+    {
+      "userId": 10002410,
+      "fullName": "Rachmad Mapawa",
+      "position": "Mechanic - Genset & Lighting Tower ADR"
+    },
+    {
+      "userId": 10006858,
+      "fullName": "Rahayu Putri Rinsi",
+      "position": "Supervisor - Facility & Asset Mgt. ADR"
+    },
+    {
+      "userId": 10025212,
+      "fullName": "Rahmat Febrianto",
+      "position": "Jr. Planner ADR"
+    },
+    {
+      "userId": 10009914,
+      "fullName": "Raka Aditya",
+      "position": "Foreman - Inventory & Warehouse ADR"
+    },
+    {
+      "userId": 10005557,
+      "fullName": "Rakhmad Wahyudinata",
+      "position": "Foreman - Plant Lifting Gear ADR"
+    },
+    {
+      "userId": 10010298,
+      "fullName": "Rasul",
+      "position": "Foreman - Procurement ADR"
+    },
+    {
+      "userId": 10025803,
+      "fullName": "Rasyid Anhar Fuadi",
+      "position": "Officer - BE Strategy ADR"
+    },
+    {
+      "userId": 10006471,
+      "fullName": "RD Sigit Permana",
+      "position": "Engineer - Drill & Blast ADR"
+    },
+    {
+      "userId": 10001972,
+      "fullName": "Relly BM",
+      "position": "Foreman - Pit Service ADR"
+    },
+    {
+      "userId": 10006977,
+      "fullName": "Rendi Primayandi",
+      "position": "Superintendent - SHE Sys. & Training ADR"
+    },
+    {
+      "userId": 10002065,
+      "fullName": "Ridwan Gobel",
+      "position": "Supervisor - Pit Service ADR"
+    },
+    {
+      "userId": 10008069,
+      "fullName": "Ridwan Suganda",
+      "position": "Surveyor ADR"
+    },
+    {
+      "userId": 10003482,
+      "fullName": "Robby Donal",
+      "position": "Welder ADR"
+    },
+    {
+      "userId": 10009358,
+      "fullName": "Rofinus Rada",
+      "position": "Superintendent - Production ADR"
+    },
+    {
+      "userId": 10003708,
+      "fullName": "Rokim",
+      "position": "Welder ADR"
+    },
+    {
+      "userId": 10021359,
+      "fullName": "Ronny Sadam Husen",
+      "position": "Foreman - Dispatch Technicians ADR"
+    },
+    {
+      "userId": 10024672,
+      "fullName": "Rudi",
+      "position": "Jr. Officer - SHE Operational Area ADR"
+    },
+    {
+      "userId": 10008537,
+      "fullName": "Rudi",
+      "position": "Supervisor - Fuel & Lube ADR"
+    },
+    {
+      "userId": 10003731,
+      "fullName": "Rudi Candra",
+      "position": "Foreman - External Relations ADR"
+    },
+    {
+      "userId": 10001826,
+      "fullName": "Rudiansyah Nor",
+      "position": "Supervisor - External Relations ADR"
+    },
+    {
+      "userId": 10002722,
+      "fullName": "Rudin Kiswanto",
+      "position": "Foreman - Pit Service ADR"
+    },
+    {
+      "userId": 10004118,
+      "fullName": "Rundiyana",
+      "position": "Supervisor - OB Haulers ADR"
+    },
+    {
+      "userId": 10003063,
+      "fullName": "Saep Hidayat",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10008730,
+      "fullName": "Safel",
+      "position": "Jr. Officer - SHE Operational Area ADR"
+    },
+    {
+      "userId": 10002571,
+      "fullName": "Sami`an Nurhidayat",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10000782,
+      "fullName": "Sari Gunung Sinaga",
+      "position": "Superintendent - ERGA ADR"
+    },
+    {
+      "userId": 10003009,
+      "fullName": "Sena Patiung",
+      "position": "Foreman - Transportation ADR"
+    },
+    {
+      "userId": 10000962,
+      "fullName": "Seri Settiawan",
+      "position": "Supervisor - Loader ADR"
+    },
+    {
+      "userId": 10003147,
+      "fullName": "Setiono",
+      "position": "Foreman - Security ADR"
+    },
+    {
+      "userId": 10010406,
+      "fullName": "Setya Abkar Ibrahim",
+      "position": "Supervisor - Facility & Asset Mgt. ADR"
+    },
+    {
+      "userId": 10009608,
+      "fullName": "Sigit Zulianto",
+      "position": "Foreman - Equipment ADR"
+    },
+    {
+      "userId": 10008408,
+      "fullName": "Sofyan Nasuha",
+      "position": "Mechanic - OB Haulers Pit Stop ADR"
+    },
+    {
+      "userId": 10012074,
+      "fullName": "Stenly Bastian Tilaar",
+      "position": "Foreman - Tyre ADR"
+    },
+    {
+      "userId": 10005554,
+      "fullName": "Sudalmo",
+      "position": "Foreman - Drills & Pumps ADR"
+    },
+    {
+      "userId": 10000716,
+      "fullName": "Sudarsono",
+      "position": "Foreman - Pit Service ADR"
+    },
+    {
+      "userId": 10005005,
+      "fullName": "Sugeng Nursanto",
+      "position": "Foreman - Loader Shutdown ADR"
+    },
+    {
+      "userId": 10002105,
+      "fullName": "Sugiani",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10003005,
+      "fullName": "Sugiarso",
+      "position": "Welder ADR"
+    },
+    {
+      "userId": 10003572,
+      "fullName": "Sugito",
+      "position": "Foreman - Drill & Blast ADR"
+    },
+    {
+      "userId": 10000980,
+      "fullName": "Supagi",
+      "position": "Foreman - Equipment ADR"
+    },
+    {
+      "userId": 10001761,
+      "fullName": "Supian",
+      "position": "Superintendent - Finance ADR"
+    },
+    {
+      "userId": 10003707,
+      "fullName": "Supriyanto",
+      "position": "Mechanic - Dozer & Grader ADR"
+    },
+    {
+      "userId": 10000705,
+      "fullName": "Suratman",
+      "position": "Foreman - Pit Service ADR"
+    },
+    {
+      "userId": 10000738,
+      "fullName": "Suripno",
+      "position": "Supervisor - Workshop ADR"
+    },
+    {
+      "userId": 10004391,
+      "fullName": "Susanto",
+      "position": "Foreman - OB Haulers Workshop ADR"
+    },
+    {
+      "userId": 10005684,
+      "fullName": "Sutrisno",
+      "position": "Mechanic - Loader Repair ADR"
+    },
+    {
+      "userId": 10011280,
+      "fullName": "Sutrisno Santoso",
+      "position": "Supervisor - Pit Service ADR"
+    },
+    {
+      "userId": 10003006,
+      "fullName": "Suyateman",
+      "position": "Foreman - Equipment ADR"
+    },
+    {
+      "userId": 10000502,
+      "fullName": "Syafril",
+      "position": "Foreman - Opr Fuel & Lube ADR"
+    },
+    {
+      "userId": 10000500,
+      "fullName": "Syahriani",
+      "position": "Jr. Trainer - Learning Center ADR"
+    },
+    {
+      "userId": 10001679,
+      "fullName": "Takad Junaidi",
+      "position": "Supervisor - Loader ADR"
+    },
+    {
+      "userId": 10015678,
+      "fullName": "Tegar Pandhu Mukty",
+      "position": "Engineer - Pit Control ADR"
+    },
+    {
+      "userId": 10001495,
+      "fullName": "Tri Wahyudi",
+      "position": "Foreman - Fabrication ADR"
+    },
+    {
+      "userId": 10012477,
+      "fullName": "Trio Okdianto",
+      "position": "Foreman - Coal ADR"
+    },
+    {
+      "userId": 10001825,
+      "fullName": "Ustipianor",
+      "position": "Jr. Trainer - Learning Center ADR"
+    },
+    {
+      "userId": 10013183,
+      "fullName": "Vana Prasta Haryanto",
+      "position": "Supervisor - OB Haulers ADR"
+    },
+    {
+      "userId": 10001415,
+      "fullName": "Wahrianto",
+      "position": "Foreman - Security ADR"
+    },
+    {
+      "userId": 10002359,
+      "fullName": "Wahyu Andi Saputra",
+      "position": "Supervisor - IT ADR"
+    },
+    {
+      "userId": 10015722,
+      "fullName": "Wahyu Prakoso",
+      "position": "Foreman - IT ADR"
+    },
+    {
+      "userId": 10004008,
+      "fullName": "Wahyu Riyadi",
+      "position": "Foreman - OB ADR"
+    },
+    {
+      "userId": 10002944,
+      "fullName": "Warso",
+      "position": "Foreman - Ancillary Equipment ADR"
+    },
+    {
+      "userId": 10002278,
+      "fullName": "Wawan Hermawan",
+      "position": "Foreman - Coal ADR"
+    },
+    {
+      "userId": 10015745,
+      "fullName": "Wawan Wahyu Setiawan",
+      "position": "Supervisor - Parts ADR"
+    },
+    {
+      "userId": 10006199,
+      "fullName": "Wibowo Arief Hidayat",
+      "position": "Supervisor - SHE Sys. & Training ADR"
+    },
+    {
+      "userId": 10000732,
+      "fullName": "Winarto",
+      "position": "Foreman - Pit Service ADR"
+    },
+    {
+      "userId": 10002710,
+      "fullName": "Yacobus F. Leimena",
+      "position": "Supervisor - Pit Service ADR"
+    },
+    {
+      "userId": 10024926,
+      "fullName": "Yana Billy Santoso",
+      "position": "Jr. Trainer - Learning Center ADR"
+    },
+    {
+      "userId": 10002494,
+      "fullName": "Yohan Arif Budi .S",
+      "position": null
+    },
+    {
+      "userId": 10000345,
+      "fullName": "Yohanes. R. B.",
+      "position": "Foreman - Tyre ADR"
+    },
+    {
+      "userId": 10008070,
+      "fullName": "Youla Hidayat",
+      "position": "Foreman - Production Analyst ADR"
+    },
+    {
+      "userId": 10007200,
+      "fullName": "Yub Balanga",
+      "position": "Foreman - Coal ADR"
+    },
+    {
+      "userId": 10011174,
+      "fullName": "Yuda Adi Irwanto",
+      "position": "Foreman - Dispatchers ADR"
+    },
+    {
+      "userId": 10004887,
+      "fullName": "Yudi Irawan",
+      "position": "Jr. Planner ADR"
+    },
+    {
+      "userId": 10011543,
+      "fullName": "Yudistira Adyatma",
+      "position": "Engineer - Mine Plan ADR"
+    },
+    {
+      "userId": 10005587,
+      "fullName": "Yulius Agung Pribadi",
+      "position": "Superintendent - Logistics ADR"
+    },
+    {
+      "userId": 10001621,
+      "fullName": "Yuniar Rahmadana",
+      "position": "Technician - Emergency Response ADR"
+    },
+    {
+      "userId": 10009294,
+      "fullName": "Zaitun Nisa",
+      "position": "Jr. Officer - AP & Tax ADR"
+    }
+  ]
+}
