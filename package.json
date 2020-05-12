@@ -9,7 +9,9 @@
     "test": "jest",
     "lint": "eslint .",
     "bundle-android": "react-native bundle --dev false --platform android --entry-file index.js --bundle-output ./android/app/src/main/assets/index.android.bundle --assets-dest ./android/app/src/main/res",
-    "bundle-ios": "react-native bundle --platform ios --dev false --entry-file index.js --bundle-output ./ios/IntegrationNative/main.jsbundle --assets-dest ./ios/IntegrationNative"
+    "bundle-file-android": "react-native bundle --dev false --platform android --entry-file index.js --bundle-output ./bundleFile/android/assets/index.android.bundle --assets-dest ./bundleFile/android/res",
+    "bundle-ios": "react-native bundle --platform ios --dev false --entry-file index.js --bundle-output ./ios/IntegrationNative/main.jsbundle --assets-dest ./ios/IntegrationNative",
+    "bundle-file-ios": "react-native bundle --platform ios --dev false --entry-file index.js --bundle-output ./bundleFile/ios/main.jsbundle --assets-dest ./bundleFile/ios"
   },
   "dependencies": {
     "react": "16.11.0",
