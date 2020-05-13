@@ -17,7 +17,7 @@ const Home = ({navigation, route, database}) => {
     const subscribeList = db => {
         const picCollection = db.objects('PersonInCharge');
         function listener(pic, changes) {
-            console.log('changes in listener', changes);
+            // console.log('changes in listener', changes);
             setListPIC(pic);
             setTotalRecord(pic.length);
 
@@ -37,7 +37,7 @@ const Home = ({navigation, route, database}) => {
             changes.deletions.forEach(index => {
                 // Deleted objects cannot be accessed directly
                 // Support for accessing deleted objects coming soon...
-                console.log('deleted');
+                // console.log('deleted');
             });
         }
         picCollection.addListener(listener);
@@ -61,21 +61,37 @@ const Home = ({navigation, route, database}) => {
     };
 
     const generate = (db, seeder) => {
+        const t0 = Date.now();
         function collectionPIC(pic, index) {
             const picCollection = db.objects('PersonInCharge');
             let id = picCollection.length + 1;
-            return {
-                _id: id + index,
-                siteShortName: 'adr',
-                userId: pic.userId,
-                fullName: pic.fullName,
-                position: pic.position || (id + index).toString(),
-                createdAt: new Date(),
-                isDeleted: false,
-            };
+            if(pic){
+                return {
+                    _id: id + index,
+                    siteShortName: 'adr',
+                    userId: pic.userId,
+                    fullName: pic.fullName,
+                    position: pic.position || (id + index).toString(),
+                    createdAt: new Date(),
+                    isDeleted: false,
+                };
+            }
+            else{
+                return {
+                    _id: id + index,
+                    siteShortName: 'adr',
+                    userId: id + index,
+                    fullName: (id + index).toString(),
+                    position: (id + index).toString(),
+                    createdAt: new Date(),
+                    isDeleted: false,
+                };
+            }
+
         }
         try {
-            const arrayPIC = seeder.map((item, index) => collectionPIC(item, index));
+            // const arrayPIC = seeder.map((item, index) => collectionPIC(item, index));
+            const arrayPIC = [...Array(10000).keys()].map((item, index) => collectionPIC(null, index));
             let result = false;
             db.write(() => {
                 result = arrayPIC.map(pic => db.create('PersonInCharge', pic));
@@ -85,6 +101,8 @@ const Home = ({navigation, route, database}) => {
         } catch (e) {
             console.log('error', e);
         }
+        const t1 = Date.now();
+        console.log('Call to generate data realm took ' + (t1 - t0) + ' milliseconds.');
     };
 
     return (
