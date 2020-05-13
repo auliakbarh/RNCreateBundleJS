@@ -100,6 +100,7 @@ const ListHazard = ({database, navigation, route}) => {
   };
 
   const subscribeHazardList = async (database) => {
+    const t0 = Date.now();
     let result = null;
     console.log('listHazard.length', listHazard.length);
     try{
@@ -115,6 +116,8 @@ const ListHazard = ({database, navigation, route}) => {
     }catch (e) {
       console.log(e)
     }
+    const t1 = Date.now();
+    console.log("Call to SubscribeRxDB took " + (t1 - t0) + " milliseconds.")
   }
 
   React.useEffect(() => {

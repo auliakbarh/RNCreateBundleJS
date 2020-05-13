@@ -157,6 +157,7 @@ const HazardFormComponent = ({database, navigation, route}) => {
   }
 
   const generate = async database => {
+    const t0 = Date.now();
     try {
       setIsGenerating(true);
 
@@ -183,6 +184,8 @@ const HazardFormComponent = ({database, navigation, route}) => {
     } catch (e) {
       console.log(e);
     }
+    const t1 = Date.now();
+    console.log("Call to generatingDataRxDB took " + (t1 - t0) + " milliseconds.")
   };
 
   return (
